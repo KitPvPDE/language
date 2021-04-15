@@ -1,0 +1,14 @@
+[
+  {
+    "language": "de",
+    "country": "DE",
+    "file": "kitpvp_de_DE.properties",
+    "version": "1.0.0"
+  },
+  {
+    "language": "en",
+    "country": "US",
+    "file": "kitpvp_en_US.properties",
+    "version": "1.0.0"
+  }
+]
