@@ -10,5 +10,11 @@
     "country": "US",
     "file": "kitpvp_en_US.properties",
     "version": "1.0.0"
+  },
+  {
+    "language": "en",
+    "country": "PT",
+    "file": "kitpvp_en_PT.properties",
+    "version": "1.0.0"
   }
 ]
