@@ -1,0 +1,20 @@
+[
+  {
+    "language": "de",
+    "country": "DE",
+    "file": "matchmaking_de_DE.properties",
+    "version": "1.0.0"
+  },
+  {
+    "language": "en",
+    "country": "US",
+    "file": "matchmaking_en_US.properties",
+    "version": "1.0.0"
+  },
+  {
+    "language": "en",
+    "country": "PT",
+    "file": "matchmaking_en_PT.properties",
+    "version": "1.0.0"
+  }
+]
