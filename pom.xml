@@ -13,6 +13,13 @@
     <artifactId>language</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <repositories>
+        <repository>
+            <id>kit-public</id>
+            <url>https://repo.kitpvp.de/public/</url>
+        </repository>
+    </repositories>
+
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
@@ -23,7 +30,7 @@
         <dependency>
             <groupId>net.kitpvp.network</groupId>
             <artifactId>translation-api</artifactId>
-            <version>1.5-SNAPSHOT</version>
+            <version>1.6-SNAPSHOT</version>
             <scope>test</scope>
         </dependency>
         <dependency>
