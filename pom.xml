@@ -30,7 +30,7 @@
         <dependency>
             <groupId>net.kitpvp.network</groupId>
             <artifactId>translation-api</artifactId>
-            <version>1.5-SNAPSHOT</version>
+            <version>1.6-SNAPSHOT</version>
             <scope>test</scope>
         </dependency>
         <dependency>
