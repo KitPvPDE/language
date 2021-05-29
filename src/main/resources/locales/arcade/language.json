@@ -1,0 +1,20 @@
+[
+  {
+    "language": "de",
+    "country": "DE",
+    "file": "arcade_de_DE.properties",
+    "version": "1.0.0"
+  },
+  {
+    "language": "en",
+    "country": "US",
+    "file": "arcade_en_US.properties",
+    "version": "1.0.0"
+  },
+  {
+    "language": "en",
+    "country": "PT",
+    "file": "arcade_en_PT.properties",
+    "version": "1.0.0"
+  }
+]
